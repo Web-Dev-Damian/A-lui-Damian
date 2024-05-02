@@ -5,4 +5,5 @@ button{
     border: none;
     padding:7px 10px;
     font-weight: 700;
+    cursor: pointer;
 }
